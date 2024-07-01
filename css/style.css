@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3, h4, h5, p, span {
 	margin: 0;
-	color: #FFD700;
+	color: ;
 }
 
 .container {
@@ -33,7 +33,7 @@ nav {
 	height: 100px;
 	width: 100%;
 	z-index: 1;
-	background-color: #FF4500;
+	background-color: #FF0000;
 	border-bottom: 1px solid #CCC;
  }
 
@@ -76,7 +76,7 @@ nav {
  }
 
  .nav-container li a:hover {
- 	color: #98FB98;
+ 	color: #FF4500;
  }
 
 /* banner  */
@@ -112,8 +112,8 @@ nav {
 
 /* Formulario */
  #search-form input, #search-form select {
- 	background-color: #0000FF;
- 	border-radius: 5px;
+ 	background-color: #FFFF00;
+ 	border-radius: 6px;
  	border-color: transparent;
  	padding: 10px 20px;
  	font-size: 18px;
@@ -121,9 +121,9 @@ nav {
  }
 
 #search-form input[type=submit] {
- 	background-color: #FF0000;
+ 	background-color: #7FFFD4;
  	text-transform: uppercase;
- 	color: #FFF;
+ 	color: #00FF00;
  	cursor: pointer;
  	transition: 0.5s;
  }
